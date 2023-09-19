@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "MultiBASIC040")(type "KiCad")(uri "${KIPRJMOD}/MultiBASIC040.pretty")(options "")(descr ""))
+)
