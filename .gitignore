@@ -1,3 +1,11 @@
+# Build files
+Logic/PRT-Build
+
+##############################################################################
+# VSCode files
+.vscode/*
+
+##############################################################################
 # For PCBs designed using KiCad: https://www.kicad.org/
 # Format documentation: https://kicad.org/help/file-formats/
 
@@ -28,3 +36,4 @@ fp-info-cache
 *.xml
 *.csv
 Hardware/#auto_saved_files#
+
